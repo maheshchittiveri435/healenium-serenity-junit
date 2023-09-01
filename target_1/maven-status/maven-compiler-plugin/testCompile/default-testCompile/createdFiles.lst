@@ -1,0 +1,9 @@
+starter\actions\navigation\DuckDuckGoHomePage.class
+starter\actions\search\LookForInformation.class
+starter\actions\drivers\CustomDriver.class
+starter\actions\navigation\HealWebsiteHomePage.class
+starter\acceptancetests\WhenSearchingForTerms.class
+starter\actions\search\SearchForm.class
+starter\actions\navigation\NavigateTo.class
+starter\acceptancetests\WhenSearchingForTerms2.class
+starter\actions\search\SearchArticle.class

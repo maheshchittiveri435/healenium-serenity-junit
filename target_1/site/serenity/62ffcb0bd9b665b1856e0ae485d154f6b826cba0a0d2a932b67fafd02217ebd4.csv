@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"WhenSearchingForTerms","Healenium test 2","ERROR","2023-09-01T11:41:25.274937+05:30[Asia/Calcutta]","0.0","405.93"
+"WhenSearchingForTerms","Healenium test 3","ERROR","2023-09-01T11:41:25.4883603+05:30[Asia/Calcutta]","0.0","399.86"
+"WhenSearchingForTerms","Should be able to search for green things","ERROR","2023-09-01T11:41:25.6367849+05:30[Asia/Calcutta]","0.0","176.52"
+"WhenSearchingForTerms","Healenium test 4","ERROR","2023-09-01T11:41:26.0657769+05:30[Asia/Calcutta]","0.0","325.48"
